@@ -22,9 +22,9 @@
     "grade": "2023级",
     "hometown": "广东 深圳",
     "mbti": "ISFJ",
-    "hobbies": "篮球 / 乒乓 / 旅游",
-    "favoriteTeam": { "name": "巴萨女足/男足" },
-    "numberReason": "欣赏像Rodri和Pedri一样的Playmaker",
+    "hobbies": "篮球/乒乓/旅行/摄影",
+    "favoriteTeam": { "name": "巴萨/西班牙女足" },
+    "numberReason": "想成为罗德里和佩德里那样的Playmaker",
     "avatar": "images/gyx.png",
     "isCaptain": true,
     "isGraduated": false
@@ -75,7 +75,23 @@
     "signature": "巴萨万岁",
     "favoriteTeam": { "name": "巴萨/西班牙" },
     "avatar": "images/lzx.png",
-    "isCaptain": false,
+    "isCaptain": true,
+    "isGraduated": false
+  },
+  {
+    "id": "huang-xiao-han-07",
+    "name": "HUANG Xiaohan",
+    "number": 7,
+    "position": "前锋/中场",
+    "major": "ACCT",
+    "grade": "2025级",
+    "hometown": "湖南 长沙",
+    "mbti": "ENFP",
+    "hobbies": "吉他/唱歌/摄影/any球类",
+    "signature": "明天不想吃早餐",
+    "numberReason": "要当就要当最d的前锋✌",
+    "avatar": "images/hxh.png",
+    "isCaptain": true,
     "isGraduated": false
   },
   {
@@ -154,22 +170,6 @@
     "avatar": "images/cxl.jpg",
     "isCaptain": false,
     "isGraduated": true
-  },
-  {
-    "id": "huang-xiao-han-07",
-    "name": "HUANG Xiaohan",
-    "number": 7,
-    "position": "前锋/中场",
-    "major": "ACCT",
-    "grade": "2025级",
-    "hometown": "湖南 长沙",
-    "mbti": "ENFP",
-    "hobbies": "吉他/唱歌/摄影/any球类",
-    "signature": "明天不想吃早餐",
-    "numberReason": "要当就要当最刁的前锋✌",
-    "avatar": "images/hxh.png",
-    "isCaptain": false,
-    "isGraduated": false
   },
   {
     "id": "lu-zi-qian-07",
